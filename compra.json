@@ -14,7 +14,7 @@
               {
                 "id":"pl1",
                 "nombre":"Leche entera RAM",
-                "Descripción": "Leche entera pasteurizada",
+                "descripcion": "Leche entera pasteurizada",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 0.80,
@@ -29,7 +29,7 @@
               },
               {"id":"pl2",
                 "nombre":"Yogur Gancedo",
-                "Descripción": "Yogur ecológico",
+                "descripcion": "Yogur ecológico",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 1.50,
@@ -49,7 +49,7 @@
               {
                 "id":"pan1",
                 "nombre":"Pan gallego",
-                "Descripción": "Pan de masa madre gallego",
+                "descripcion": "Pan de masa madre gallego",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 2.80,
@@ -64,7 +64,7 @@
               {
                 "id":"pan2",
                 "nombre":"Magdalenas Chocolate",
-                "Descripción": "Bolsa Magdalenas chocolate estilo abuela",
+                "descripcion": "Bolsa Magdalenas chocolate estilo abuela",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 2.30,
@@ -84,7 +84,7 @@
               {
                 "id":"cons1",
                 "nombre":"Atún natural",
-                "Descripción": "Pack 3 latas atún al natural",
+                "descripcion": "Pack 3 latas atún al natural",
                 "origen": "España",
                 "perecedero": false,
                 "precioUnidad": 3.20,
@@ -99,7 +99,7 @@
               {
                 "id":"cons2",
                 "nombre":"Garbanzos",
-                "Descripción": "Garbanzos cocidos bote cristal",
+                "descripcion": "Garbanzos cocidos bote cristal",
                 "origen": "España",
                 "perecedero": false,
                 "precioUnidad": 2.80,
@@ -129,7 +129,7 @@
               {
                 "id":"pl1",
                 "nombre":"Leche entera RAM",
-                "Descripción": "Leche entera pasteurizada",
+                "descripcion": "Leche entera pasteurizada",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 0.90,
@@ -143,7 +143,7 @@
               },
               {"id":"pl2",
                 "nombre":"Yogur Gancedo",
-                "Descripción": "Yogur ecológico",
+                "descripcion": "Yogur ecológico",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 1.90,
@@ -163,7 +163,7 @@
               {
                 "id":"pan1",
                 "nombre":"Pan gallego",
-                "Descripción": "Pan de masa madre gallego",
+                "descripcion": "Pan de masa madre gallego",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 2.80,
@@ -178,7 +178,7 @@
               {
                 "id":"pan2",
                 "nombre":"Magdalenas Chocolate Bimbo",
-                "Descripción": "Bolsa Magdalenas chocolate",
+                "descripcion": "Bolsa Magdalenas chocolate",
                 "origen": "España",
                 "perecedero": true,
                 "precioUnidad": 2.30,
@@ -198,7 +198,7 @@
               {
                 "id":"cons1",
                 "nombre":"Atún natural aliada",
-                "Descripción": "Pack 3 latas atún al natural aliada",
+                "descripcion": "Pack 3 latas atún al natural aliada",
                 "origen": "España",
                 "perecedero": false,
                 "precioUnidad": 2.20,
@@ -213,7 +213,7 @@
               {
                 "id":"cons2",
                 "nombre":"Garbanzos Luengo",
-                "Descripción": "Garbanzos cocidos bote cristal",
+                "descripcion": "Garbanzos cocidos bote cristal",
                 "origen": "España",
                 "perecedero": false,
                 "precioUnidad": 2.80,
