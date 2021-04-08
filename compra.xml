@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado>
+<nombre>Corte Inglés</nombre>
+<direccion>Preciados 15</direccion>
+<coordenadas>
+<norte>41°24'12.2</norte>
+<sur></sur>
+<este>2°10'26.5</este>
+<oeste></oeste>
+</coordenadas>
+<seccion>
+<productosLacteos id="1">
+<articulo id="pl1">
+<nombre>Leche entera RAM</nombre>
+<descripcion>Leche entera pasteurizada</descripcion>
+<origen>España</origen>
+<perecedero>true</perecedero>
+<precioUnidad>0.90</precioUnidad>
+<unidad>litro</unidad>
+<unidades>500</unidades>
+<oferta>true</oferta>
+<dataOferta>22/4/2019 10:00 p.m.</dataOferta>
+<adquirido>true</adquirido>
+<productoHabitual>true</productoHabitual>
+</articulo>
+<articulo id="pl2">
+<nombre>Yogur Gancedo</nombre>
+<descripcion>Yogur ecológico</descripcion>
+<origen>España</origen>
+<perecedero>true</perecedero>
+<precioUnidad>1.90</precioUnidad>
+<unidad>250gr</unidad>
+<unidades>50</unidades>
+<oferta>false</oferta>
+<dataOferta>null</dataOferta>
+<adquirido>false</adquirido>
+<productoHabitual>false</productoHabitual>
+</articulo>
+</productosLacteos>
+<panadería id="2">
+<articulo id="pan1">
+<nombre>Pan gallego</nombre>
+<descripcion>Pan de masa madre gallego</descripcion>
+<origen>España</origen>
+<perecedero>true</perecedero>
+<precioUnidad>2.80</precioUnidad>
+<unidad>600gr</unidad>
+<unidades>80</unidades>
+<oferta>false</oferta>
+<dataOferta>null</dataOferta>
+<adquirido>true</adquirido>
+<productoHabitual>true</productoHabitual>
+</articulo>
+<articulo id="pan2">
+<nombre>Magdalenas Chocolate Bimbo</nombre>
+<descripcion>Bolsa Magdalenas chocolate</descripcion>
+<origen>España</origen>
+<perecedero>false</perecedero>
+<precioUnidad>2.30</precioUnidad>
+<unidad>500gr</unidad>
+<unidades>100</unidades>
+<oferta>true</oferta>
+<dataOferta>12/4/2019 10:00 p.m.</dataOferta>
+<adquirido>true</adquirido>
+<productoHabitual>false</productoHabitual>
+</articulo>
+</panaderia>
+<conservas id="3">
+<articulo id="cons1">
+<nombre>Atún natural aliada</nombre>
+<descripcion>Pack 3 latas atún al natural aliada</descripcion>
+<origen>España</origen>
+<perecedero>false</perecedero>
+<precioUnidad>2.20</precioUnidad>
+<unidad>750gr</unidad>
+<unidades>800</unidades>
+<oferta>true</oferta>
+<dataOferta>19/4/2019 10:00 p.m.</dataOferta>
+<adquirido>false</adquirido>
+<productoHabitual>false</productoHabitual>
+</articulo>
+<articulo id="cons2">
+<nombre>Garbanzos Luengo</nombre>
+<descripcion>Garbanzos cocidos bote cristal</descripcion>
+<origen>España</origen>
+<perecedero>false</perecedero>
+<precioUnidad>2.80</precioUnidad>
+<unidad>250gr</unidad>
+<unidades>500</unidades>
+<oferta>true</oferta>
+<dataOferta>19/4/2019 10:00 p.m.</dataOferta>
+<adquirido>true</adquirido>
+<productoHabitual>true</productoHabitual>
+</articulo>
+</conservas>
+</seccion>
+</supermercado>
+          
